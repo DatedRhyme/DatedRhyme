@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dated "Doc" Rhymes
+==========================================================================================================================================
 
-<!--
-**DatedRhyme/DatedRhyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I drink tea, I slap desks and sometimes I make magic ✨✌
+-------------------------------------------------------
 
-Here are some ideas to get you started:
+Hey I'm Matt, alot of people know me online for having countless flannel shirts and long fluffy hair. When I'm not drinking tea, slapping desks and making magic, I work in events as a freelance technician, a fancy way of saying I can't keep a job and sometimes people hire me to do things. I dabble in drinking tea, qlab and playing with projectors, video wall and some broadcast and editing stuff I've worked on projects with local councils, and theatres around the North West of the UK, I occasionally appear at Fresh Nut Studios working with Dan "The Great" Bull and Stupendium, and am sometimes spotted at gaming conventions donning some sort of flannel shirt and jeans pretending I know how to play cards games like hearthstone and streaming. My GitHub isn't here to rewrite the future, I looked into it and it seemed to long of a project, but more somewhat like a Shakespeare comic relief or a panto dame to keep the plot moving along and keep it light-hearted. You might not find much code here but you'll find some cool concepts and occasionally something you might go on to use in the future!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Manchester UK
+* 🖥️  See my portfolio at [DatedRhy.me](http://datedrhy.me)
+* ✉️  You can contact me at [datedrhyme@gmail.com](mailto:datedrhyme@gmail.com)
+* 🚀  I'm currently working on [some really silly stuff for production rp, cool example could be seen with this!](http://twitter.com/DatedRhyme/status/1715181921364312339)
+* 🧠  I'm learning Lua for FiveM, mainly so I can make more dumb stuff
+* 🤝  I'm open to collaborating on Qlab stuff, tea brewing, booth streaming, let me come DJ on your FiveM server.
+* ⚡  You know when you think about it giraffes are just strechy horses?
+
+<a href="https://www.x.com/DatedRhyme" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/DatedRhyme?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/DatedRhymes713" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/DatedRhymes713?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+### Skills
+
+<p align="left">
+<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/DatedRhyme" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/DatedRhyme" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/DatedRhyme" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/DatedRhyme" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@DatedRhyme" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/DatedRhymes713" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
